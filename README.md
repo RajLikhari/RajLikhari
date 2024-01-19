@@ -3,12 +3,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Currently working at American Express as a Full-Stack Software Engineer
-- 🎓 &nbsp; Graduated Cum Laude from Texas A&M Univserity in 2022 with a Major in Computer Engineering
+- 🎓 &nbsp; Graduated Cum Laude from Texas A&M University in 2022 with a Major in Computer Engineering
 - 🤔 &nbsp; Interested in Hybrid Cloud Solutions and Web-App Development
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | C++ 
+- 💻 &nbsp; Go | Java (Vert.x) | Python | C++ 
 - 🌐 &nbsp; Javascript | React | Angular | HTML5 | CSS3 
 - 🛢 &nbsp; Couchbase | MongoDB
 
