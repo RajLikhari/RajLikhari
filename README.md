@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RajLikhari
-- 👀 I’m interested in full-stack web development and cloud technology
+<h1 align="center">Hi there <img src="https://github.com/RajLikhari/RajLikhari/blob/main/Hi.gif" width="40px">, I'm Raj Likhari</h1>
+
 
 
 <!---
