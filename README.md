@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/RajLikhari/RajLikhari/blob/main/Hi.gif" width="40px">, I'm Raj Likhari</h1>
+<h1 align="center">Hello World <img src="https://github.com/RajLikhari/RajLikhari/blob/main/Hi.gif" width="40px"> I'm Raj Likhari </h1>
 
 
 
