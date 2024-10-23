@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Go | Java (Vert.x) | Python | C++ 
-- 🌐 &nbsp; Javascript | React | Angular | HTML5 | CSS3 
-- 🛢 &nbsp; Couchbase | MongoDB
+- 💻 &nbsp; Java | Javascript
+- 🌐 &nbsp; React | Angular | HTML5 | CSS3 
+- 🛢 &nbsp; Couchbase | MongoDB | PostgreSQL
 
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajLikhari&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/rajlikhari/github-readme-stats)
